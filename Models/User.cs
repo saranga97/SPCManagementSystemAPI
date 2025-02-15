@@ -16,7 +16,7 @@ namespace SPCManagementSystemAPI.Models
         public string Password { get; set; }
 
         [Required]
-        public string Role { get; set; } // Supplier, Pharmacy, Staff
+        public string Role { get; set; }
     }
 }
 
