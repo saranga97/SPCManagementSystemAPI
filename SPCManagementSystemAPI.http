@@ -1,0 +1,6 @@
+@SPCManagementSystemAPI_HostAddress = http://localhost:5033
+
+GET {{SPCManagementSystemAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
